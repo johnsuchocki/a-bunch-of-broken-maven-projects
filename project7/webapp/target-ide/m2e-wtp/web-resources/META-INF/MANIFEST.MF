@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Build-Java: 1.8.0_102
+Build-Label: 1.0
+Built-By: admin
+Build-Host: 
+Build-Maven: Maven ${maven.version}
+Build-Time: 2016-08-24T17:40:48Z
+Build-OS: Windows 7
+Build-User: admin
+Build-Jdk: 1.8.0_102
+Created-By: Maven Integration for Eclipse
+
